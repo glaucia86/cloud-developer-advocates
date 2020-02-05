@@ -481,7 +481,7 @@ profiles:
   twitter: frankdenbow
 - uid: advocates.glaucia-lemos
   name: Glaucia Lemos
-  tagline: JavaScript / Node.js / AI
+  tagline: JavaScript / Node.js / Open Source / A.I
   image:
     src: media/profiles/glaucia-lemos.png
     alt: "Glaucia Lemos Cloud Advocate"
